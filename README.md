@@ -4,7 +4,7 @@
         <img src= "https://i.imgur.com/NvuVexq.png">
     </p>
     <p>
-        <a href="https://github.com/IsYoshida"><img title="Author"    src="https://img.shields.io/badge/Author-🌙 Haru-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/IsYoshida"><img title="Author"    src="https://img.shields.io/badge/Author-🌙Haru-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/IsYoshida/followers"><img title="Followers" src="https://img.shields.io/github/followers/IsYoshida?color=blue&style=flat-square"></a>
